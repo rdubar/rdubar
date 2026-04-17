@@ -1,6 +1,6 @@
 # Hi, I'm Roger 👋
 
-Software engineer based in Glasgow, Scotland. I've been writing code since the early 90s and I'm still enjoying it.
+Software engineer based in Glasgow, Scotland. I've been writing code since the early 90s.
 
 ## What I work with
 
@@ -10,8 +10,9 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 **Infra** — Docker · Linux · MacOS  
 **ERP** — Odoo / OpenERP
 
-## A few things here
+## Select Projects
 
+- **[rogkit](https://github.com/rdubar/rogkit)** — personal command-line toolkit, 85+ tools in Python, Go, and Rust
 - **[fortunebot](https://github.com/rdubar/fortunebot)** — AI-powered fortune generator
 - **[ish-clock](https://github.com/rdubar/ish-clock)** — fuzzy clock in four languages, first written in 1994
 - **[drift](https://github.com/rdubar/drift)** — an anti-engagement app that restores boredom and cognitive friction

@@ -11,6 +11,7 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 
 ## A few things here
 
+- **[fortunebot](https://github.com/rdubar/fortunebot)** — AI-powered fortune generator
 - **[ish-clock](https://github.com/rdubar/ish-clock)** — fuzzy clock in four languages, first written in 1994
 - **[drift](https://github.com/rdubar/drift)** — an anti-engagement app that restores boredom and cognitive friction
 - **[rd-flask](https://github.com/rdubar/rd-flask)** — Flask starter with SQLite, blueprints, and Docker
@@ -20,3 +21,7 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roger%20Dubar-0077B5?style=flat&logo=linkedin)](https://uk.linkedin.com/in/rogerdubar)
+
+## Sponsor me
+
+I’m running the 2026 Edinburgh Marathon in aid of [Crohn’s & Colitis UK](https://www.justgiving.com/page/roger-dubar-cc25?newPage=true) — donations very welcome!

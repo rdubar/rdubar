@@ -7,7 +7,8 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 **Languages** — Python · JavaScript · Go · C · Swift  
 **Web** — Flask · Bootstrap · HTML/CSS  
 **Data** — SQLite · raw SQL  
-**Infra** — Docker · Linux  
+**Infra** — Docker · Linux · MacOS  
+**ERP** — Odoo / OpenERP
 
 ## A few things here
 

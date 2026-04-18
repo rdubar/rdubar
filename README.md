@@ -12,6 +12,7 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 
 ## Select Projects
 
+- **[lulum](https://github.com/rdubar/lulum)** — unified local LLM shell: run Apple Intelligence, Ollama, and MLX from one CLI (`uvx lulum`)
 - **[rogkit](https://github.com/rdubar/rogkit)** — personal command-line toolkit, 85+ tools in Python, Go, and Rust
 - **[fortunebot](https://github.com/rdubar/fortunebot)** — AI-powered fortune generator
 - **[ish-clock](https://github.com/rdubar/ish-clock)** — fuzzy clock in four languages, first written in 1994

@@ -1,6 +1,6 @@
 # Hi, I'm Roger 👋
 
-Software engineer based in Glasgow, Scotland. I've been writing code since the early 90s.
+Software engineer based in Glasgow, Scotland. First computer: ZX81.
 
 ## What I work with
 

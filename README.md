@@ -20,6 +20,7 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 - **[rd-flask](https://github.com/rdubar/rd-flask)** — Flask starter with SQLite, blueprints, and Docker
 - **[WordUnprotect](https://github.com/rdubar/WordUnprotect)** — recover passwords from vintage Word documents
 - **[jargon](https://github.com/rdubar/jargon)** — browse the classic Hacker's Dictionary from your terminal
+- **[tmu](https://gist.github.com/rdubar/68ef12842614561e2a94878b7a013067)** — compact tmux keybinding viewer that reads your `.tmux.conf`
 
 ## Get in touch
 
@@ -27,4 +28,4 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 
 ## Sponsor me
 
-I’m running the 2026 Edinburgh Marathon in aid of [Crohn’s & Colitis UK](https://www.justgiving.com/page/roger-dubar-cc25?newPage=true) — donations very welcome!
+I'm running the 2026 Edinburgh Marathon in aid of [Crohn's & Colitis UK](https://www.justgiving.com/page/roger-dubar-cc25?newPage=true) — donations very welcome!

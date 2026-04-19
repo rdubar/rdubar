@@ -21,6 +21,7 @@ Software engineer based in Glasgow, Scotland. I've been writing code since the e
 - **[WordUnprotect](https://github.com/rdubar/WordUnprotect)** — recover passwords from vintage Word documents
 - **[jargon](https://github.com/rdubar/jargon)** — browse the classic Hacker's Dictionary from your terminal
 - **[tmu](https://gist.github.com/rdubar/68ef12842614561e2a94878b7a013067)** — compact tmux keybinding viewer that reads your `.tmux.conf`
+- **[.tmux.conf](https://gist.github.com/rdubar/0c1ad72e4737f4eab8e1e6cd12cec55b)** — tmux config optimised for Claude Code / AI terminal sessions
 
 ## Get in touch
 

@@ -13,7 +13,6 @@ Software engineer based in Glasgow, Scotland. First computer: ZX81.
 ## Highlights
 
 - **[lulum](https://github.com/rdubar/lulum)** — unified local LLM shell: run Apple Intelligence, Ollama, and MLX from one CLI (`uvx lulum`)
-- **[llmstat](https://github.com/rdubar/llmstat)** — track your AI tool usage (Claude, Codex, Gemini, Cursor) in one line (`go install`)
 - **[drift](https://github.com/rdubar/drift)** — an anti-engagement app that restores boredom and cognitive friction
 - **[ish-clock](https://github.com/rdubar/ish-clock)** — fuzzy clock in four languages, first written in 1994
 

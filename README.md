@@ -14,18 +14,16 @@ Software engineer based in Glasgow, Scotland. First computer: ZX81.
 
 - **[lulum](https://github.com/rdubar/lulum)** — unified local LLM shell: run Apple Intelligence, Ollama, and MLX from one CLI (`uvx lulum`)
 - **[drift](https://github.com/rdubar/drift)** — an anti-engagement app that restores boredom and cognitive friction
-- **[ish-clock](https://github.com/rdubar/ish-clock)** — fuzzy clock in four languages, first written in 1994
 - **[bug-hunter](https://github.com/rdubar/bug-hunter)** — retro desktop bug toy for macOS and Linux; a cockroach crawls over your windows — try to squish it
+- **[rogkit](https://github.com/rdubar/rogkit)** — personal command-line toolkit, 85+ tools in Python, Go, and Rust
 
 ## More projects
-
-- **[rogkit](https://github.com/rdubar/rogkit)** — personal command-line toolkit, 85+ tools in Python, Go, and Rust
-- **[WordUnprotect](https://github.com/rdubar/WordUnprotect)** — recover passwords from vintage Word documents
 - **[jargon](https://github.com/rdubar/jargon)** — browse the classic Hacker's Dictionary from your terminal
 - **[fortunebot](https://github.com/rdubar/fortunebot)** — AI-powered fortune generator
 - **[tmu](https://gist.github.com/rdubar/68ef12842614561e2a94878b7a013067)** — compact tmux keybinding viewer that reads your `.tmux.conf`
 - **[.tmux.conf](https://gist.github.com/rdubar/0c1ad72e4737f4eab8e1e6cd12cec55b)** — tmux config optimised for Claude Code / AI terminal sessions
 - **[.vimrc](https://gist.github.com/rdubar/49e3fe42aa5f01b7db24115b21a4206d)** — vimrc optimised for Claude Code / AI terminal sessions
+- **[WordUnprotect](https://github.com/rdubar/WordUnprotect)** — recover passwords from vintage Word documents
 
 ## Get in touch
 

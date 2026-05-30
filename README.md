@@ -7,7 +7,7 @@ Software engineer based in Glasgow, Scotland. First computer: ZX81.
 **Languages** — Python · JavaScript · Go · C · Swift  
 **Web** — Astro · Flask · Bootstrap · HTML/CSS  
 **Data** — Postgres · SQLite · raw SQL  
-**Infra** — Docker · Linux · MacOS  
+**Infra** — Docker · Linux · MacOS · AWS · Railway · Apple App Store  
 **ERP** — Odoo / OpenERP
 
 ## Highlights

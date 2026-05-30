@@ -32,4 +32,4 @@ Software engineer based in Glasgow, Scotland. First computer: ZX81.
 
 ## Sponsor me
 
-I'm running the 2026 Edinburgh Marathon in aid of [Crohn's & Colitis UK](https://www.justgiving.com/page/roger-dubar-cc25?newPage=true) — donations very welcome!
+I ran the 2026 Edinburgh Marathon in aid of [Crohn's & Colitis UK](https://www.justgiving.com/page/roger-dubar-cc25?newPage=true) — donations very welcome!

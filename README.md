@@ -29,7 +29,3 @@ Software engineer based in Glasgow, Scotland. First computer: ZX81.
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roger%20Dubar-0077B5?style=flat&logo=linkedin)](https://uk.linkedin.com/in/rogerdubar)
-
-## Sponsor me
-
-I ran the 2026 Edinburgh Marathon in aid of [Crohn's & Colitis UK](https://www.justgiving.com/page/roger-dubar-cc25?newPage=true) — donations very welcome!

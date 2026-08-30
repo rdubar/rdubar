@@ -13,6 +13,7 @@ Software engineer based in Glasgow, Scotland. First computer: ZX81.
 ## Highlights
 
 - **[ish-clock](https://github.com/rdubar/ish-clock)** - the internet's oldest fuzzy clock
+- **[emix](https://github.com/rdubar/emix)** — make your Mac or Pi pretend to be an older computer: CP/M 2.2, VAX/VMS and IBM VM/CMS personalities over real Unix files (`uvx --from emix-shell emix cpm`)
 - **[lulum](https://github.com/rdubar/lulum)** — unified local LLM shell: run Apple Intelligence, Ollama, and MLX from one CLI (`uvx lulum`)
 - **[drift](https://github.com/rdubar/drift)** — an anti-engagement app that restores boredom and cognitive friction
 - **[bug-hunter](https://github.com/rdubar/bug-hunter)** — retro desktop bug toy for macOS and Linux; a cockroach crawls over your windows — try to squish it
